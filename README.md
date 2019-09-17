@@ -3,7 +3,9 @@
 Some Random Text Here  
 New Line  
   Tabbed  
-![Car](https://imgur.com/gallery/hga5vbX)  
+![Logo](/images/logo.png)
+Format: ![Alt Text](url)
+  
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
