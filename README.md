@@ -3,7 +3,7 @@
 Some Random Text Here  
 New Line  
   Tabbed  
-[File](https://github.com/JRMGM0623/test2/blob/master/stage1/README.md)
+[File](stage1/MIDTERM REVIEW HIGHLIGHTS.pdf)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
