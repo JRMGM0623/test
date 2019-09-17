@@ -3,7 +3,7 @@
 Some Random Text Here  
 New Line  
   Tabbed  
-![Logo](/images/logo.png)
+![Logo](/images/Logo.png)
 Format: ![Alt Text](url)
   
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
